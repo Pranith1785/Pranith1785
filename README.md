@@ -11,7 +11,7 @@
 
 - 💞️ I’m looking to collaborate on Projects and solve complex problems
 
-- 📫 How to reach me **pranith.gourishetty@gmail.com**
+- 📫 How to reach me **pranithgourishetty@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
