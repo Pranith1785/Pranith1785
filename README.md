@@ -7,7 +7,7 @@
 
 - 👀 I’m interested in **solving problems using latest technologies**
 
-- 💬 Ask me about **python, data science, machine learning, shiny**
+- 💬 Ask me about **python, data science, machine learning, dash, shiny**
 
 - 💞️ I’m looking to collaborate on Projects and solve complex problems
 
